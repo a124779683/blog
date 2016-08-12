@@ -7,5 +7,5 @@
 
 [markdownurl]:https://github.com/a124779683/blog/blob/master/study/markdown%20practice.md ("markdown语法学习")
 
-[designpatterns]:https://github.com/a124779683/blog/blob/master/study/markdown%20practice.md ("设计模式学习笔记")
+[designpatterns]:https://github.com/a124779683/blog/tree/master/study/design%20patterns ("设计模式学习笔记")
 

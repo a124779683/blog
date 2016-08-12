@@ -18,4 +18,4 @@ GoF(Gang of Four)四人帮编写的书籍《设计模式》的问世影响非常
 1. [模板设计模式--学习笔记][Template Method]
 
 
-[Template Method]:http://www.baidu.com ("模板设计模式")
+[Template Method]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/template%20method.md ("模板设计模式")
