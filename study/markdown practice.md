@@ -1,5 +1,5 @@
 # MarkDown语法
-标题是每篇文章都需要也是最常用的格式，在 Markdown 中，如果一段文字被定义为标题，只要在这段文字前加 # 号即可。内容缩进直接写半方大的空白`&ensp;`或`&#8194;`全方大的空白`&emsp`;或`&#8195;`不断行的空白格`&nbsp;`或`&#160;`
+　　标题是每篇文章都需要也是最常用的格式，在 Markdown 中，如果一段文字被定义为标题，只要在这段文字前加 # 号即可。内容缩进直接写半方大的空白`&ensp;`或`&#8194;`全方大的空白`&emsp`;或`&#8195;`不断行的空白格`&nbsp;`或`&#160;`。或者使用全角在段落头部加两个空格ｌｉｋｅ　ｔｈｉｓ
 
 # 标题
 一级标题 可以使用#或者在下面加三个或者以上的=
@@ -10,19 +10,17 @@
 #### 四级标题
 
 ## 代码片段  
-	代码区块 一个TAB或者四个空格
+代码区块 我习惯用一个TAB，PS，TAB后需要回车再输入（回车具有隔断上下关系的效果）
 
-```
-public static void mian(String[] args){ 
-	System.out.println("hello,world"); 
-}
-```
+	public static void mian(String[] args){ 
+		System.out.println("hello,world"); 
+	}
 
-```
-public void codeBlock(int i）{
-	return null;	
-}
-```
+
+	public void codeBlock(int i）{
+		return null;	
+	}
+
 
 ## 引用
 当>和文字之间添加五个blank时，块注释的文字会有变化。）
@@ -51,6 +49,8 @@ ___
 ## 换行
 换行时候，文字末尾跟两个空格或以上   
 换到下面
+
+隔行两个回车。
 
 ## 图片表现方式
 
