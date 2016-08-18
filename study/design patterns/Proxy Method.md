@@ -200,4 +200,4 @@ JDK的动态代理机制只能代理实现了接口的类，而不能实现接�
 
 
 
-[more function]:"http://www.baidu.com" (功能增强的四种方式)
+[more function]:"https://github.com/a124779683/blog/blob/master/study/design%20patterns/%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%96%B9%E5%BC%8F.md" (功能增强的四种方式)

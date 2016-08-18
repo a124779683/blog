@@ -19,8 +19,12 @@ GoF(Gang of Four)四人帮编写的书籍《设计模式》的问世影响非常
 2. [单例设计模式--学习笔记][Singleton]
 3. [工厂设计模式--学习笔记][Factory Method]
 4. [装饰者模式--学习笔记][Decorator Method]
+5. [代理模式--学习笔记][Proxy Method]
+6. [功能增强的四种方式][Enhanced method]
 
 [Template Method]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/template%20method.md ("模板设计模式")
 [Singleton]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/singleton.md 
 [Factory Method]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/factory%20method.md 
 [Decorator Method]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Decorator%20Method.md 
+[Proxy Method]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Proxy%20Method.md (代理模式)
+[Enhanced method]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%96%B9%E5%BC%8F.md (功能增强的四种方式)
