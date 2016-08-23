@@ -38,7 +38,7 @@ GoF(Gang of Four)四人帮编写的书籍《设计模式》的问世影响非常
  2. [代理模式--学习笔记][Proxy Method]（Proxy）
  3. [适配器模式][Adapter Method]（Adapter）
  4. 桥接模式（Bridge）
- 5. 外观模式（Facade）
+ 5. [外观模式][Facade]（Facade）
  6. 享元模式（Flyweight）
  7. 组合模式（Composite）
 
@@ -72,3 +72,5 @@ GoF(Gang of Four)四人帮编写的书籍《设计模式》的问世影响非常
 [Enhanced method]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%96%B9%E5%BC%8F.md (功能增强的四种方式)
 
 [Adapter Method]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Adapter%20Method.md (适配器模式)
+[Facade]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Facade.md (外观模式)
+
