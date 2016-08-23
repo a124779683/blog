@@ -199,5 +199,8 @@ JDK的动态代理机制只能代理实现了接口的类，而不能实现接�
  4. 字节码增强（CGLIB，javassist） 
 
 
+## 参考资料
+1. [设计模式学习笔记-代理模式][ref]
 
 [more function]:"https://github.com/a124779683/blog/blob/master/study/design%20patterns/%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%96%B9%E5%BC%8F.md" (功能增强的四种方式)
+[ref]:http://www.cnblogs.com/wangjq/archive/2012/07/04/2575921.html (设计模式学习笔记-代理模式)
