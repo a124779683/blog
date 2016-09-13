@@ -40,7 +40,7 @@ GoF(Gang of Four)四人帮编写的书籍《设计模式》的问世影响非常
  4. 桥接模式（Bridge）
  5. [外观模式][Facade]（Facade）
  6. 享元模式（Flyweight）
- 7. 组合模式（Composite）
+ 7. [组合模式][Composite]（Composite）
 
 3. 行为型模式（11种行为模式里类与类之间的关系：
 第一类：通过父类与子类的关系进行实现。
@@ -73,4 +73,5 @@ GoF(Gang of Four)四人帮编写的书籍《设计模式》的问世影响非常
 
 [Adapter Method]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Adapter%20Method.md (适配器模式)
 [Facade]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Facade.md (外观模式)
+[Composite]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Composite.md (组合模式)
 
