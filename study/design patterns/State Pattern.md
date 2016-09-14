@@ -172,5 +172,5 @@
 　　在状态模式中，状态的变迁是由对象的内部条件决定，外界只需关心其接口，不必关心其状态对象的创建和转化；而策略模式里，采取何种策略由外部条件(C)决定。
 
 ## Thanks
-1. [《JAVA与模式》之策略模式 ](http://www.cnblogs.com/java-my-life/archive/2012/05/10/2491891.html)
+1. [《JAVA与模式》之状态模式](http://www.cnblogs.com/java-my-life/archive/2012/06/08/2538146.html)
 2. [状态模式和策略模式的区别与联系](http://zhidao.baidu.com/link?url=GfxJ43fxVn5jKLMyGuUL0Q96YLLjUQKrIeiRGvLIZvyPv676Cm7HPVB_BsNe7IPrbkQXRqXxMos4_g_AtJsyj4up36K4aevil9vTkyc7tpi)

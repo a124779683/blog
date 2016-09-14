@@ -51,7 +51,7 @@ GoF(Gang of Four)四人帮编写的书籍《设计模式》的问世影响非常
  1. 观察者模式（Observer）第二类
  2. [模板设计模式--学习笔记][Template Method]（Template Method）第一类
  3. 命令模式（Command）第二类
- 4. 状态模式（State）第三类
+ 4. [状态模式][State]（State）第三类
  5. 职责链模式（Chain of Responsibility）第二类
  6. 解释器模式（Interpreter）第四类
  8. 访问者模式（Visitor）第四类
@@ -75,5 +75,6 @@ GoF(Gang of Four)四人帮编写的书籍《设计模式》的问世影响非常
 [Facade]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Facade.md (外观模式)
 [Composite]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Composite.md (组合模式)
 [Strategy]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Strategy%20Pattern.md (策略模式)
+[State]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/State%20Pattern.md (状态模式)
 
 
