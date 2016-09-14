@@ -74,6 +74,6 @@ GoF(Gang of Four)四人帮编写的书籍《设计模式》的问世影响非常
 [Adapter Method]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Adapter%20Method.md (适配器模式)
 [Facade]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Facade.md (外观模式)
 [Composite]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Composite.md (组合模式)
-[Strategy]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Strategy%20Patter.md (策略模式)
+[Strategy]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Strategy%20Pattern.md (策略模式)
 
 
