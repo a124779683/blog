@@ -48,7 +48,7 @@ GoF(Gang of Four)四人帮编写的书籍《设计模式》的问世影响非常
 第三类：类的状态。
 第四类：通过中间类）
 
- 1. 观察者模式（Observer）第二类
+ 1. [观察者模式][Observer]（Observer）第二类
  2. [模板设计模式--学习笔记][Template Method]（Template Method）第一类
  3. 命令模式（Command）第二类
  4. [状态模式][State]（State）第三类
@@ -76,5 +76,7 @@ GoF(Gang of Four)四人帮编写的书籍《设计模式》的问世影响非常
 [Composite]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Composite.md (组合模式)
 [Strategy]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Strategy%20Pattern.md (策略模式)
 [State]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/State%20Pattern.md (状态模式)
+
+[Observer]:https://github.com/a124779683/blog/blob/master/study/design%20patterns/Observer.md
 
 
