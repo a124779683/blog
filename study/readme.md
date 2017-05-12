@@ -5,7 +5,7 @@
 3. [UML类图学习笔记][umlclass]
 4. [开发规范][dev spec]
 5. [RxJava学习笔记][rxjava]
-
+6. [View学习笔记][view]
 
 [markdownurl]:https://github.com/a124779683/blog/blob/master/study/markdown%20practice.md ("markdown语法学习")
 
@@ -16,3 +16,5 @@
 [dev spec]:https://github.com/a124779683/blog/blob/master/study/dev%20spec (开发规范)
 
 [rxjava]:https://github.com/a124779683/blog/tree/master/study/RxJava
+
+[view]:https://github.com/a124779683/blog/tree/master/study/view
